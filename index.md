@@ -1,3 +1,9 @@
+# Shaivi Mishra's First CS193 Homework
+- I love how CS193 introduces us to the necessary tools that we need for CS180 and for future.
+- I like how the PSO's are not compulsory.
+- I love that this course is taught by students, makes it fun and easier to understand.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
